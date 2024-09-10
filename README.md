@@ -16,5 +16,6 @@ Steps in Project-
 - Insights Generation
 
 Outcome:
-The Blinkit Sales Data Analysis project aims to provide a powerful tool for stakeholders to gain deep insights into sales performance, customer satisfaction, and inventory distribution. The interactive dashboards and [blinkit_Data_Visualization_dashboard.pdf](https://github.com/user-attachments/files/16941156/blinkit_Data_Visualization_dashboard.pdf)
-reports will offer a clear and concise view of key metrics, helping Blinkit optimize operations, improve customer satisfaction, and drive business growth.
+The Blinkit Sales Data Analysis project aims to provide a powerful tool for stakeholders to gain deep insights into sales performance, customer satisfaction, and inventory distribution. The interactive dashboards and reports will offer a clear and concise view of key metrics, helping Blinkit optimize operations, improve customer satisfaction, and drive business growth.
+<img width="630" alt="Dashboard" src="https://github.com/user-attachments/assets/4ec1eef3-f1c5-4227-be9c-2c8b2e7cc23f">
+
